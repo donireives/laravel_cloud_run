@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05730e7f-8d2e-48a1-b4a7-3ffb3f4466af" name="Default Changelist" comment="" />
+    <list default="true" id="05730e7f-8d2e-48a1-b4a7-3ffb3f4466af" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -130,7 +135,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -147,6 +153,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605956767833</updated>
       <workItem from="1605956768919" duration="1668000" />
+      <workItem from="1609068468889" duration="1309000" />
     </task>
     <servers />
   </component>
@@ -154,13 +161,19 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="199" y="29" key="SettingsEditor" timestamp="1605957086151">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="752" y="149" key="SettingsEditor" timestamp="1609068901973">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="199" y="29" key="SettingsEditor/0.0.1366.768/1366.0.1360.768@0.0.1366.768" timestamp="1605957086151" />
-    <state x="346" y="89" key="search.everywhere.popup" timestamp="1605956964425">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="752" y="149" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1609068901973" />
+    <state x="670" y="150" width="579" height="780" key="find.popup" timestamp="1609069594121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="670" y="150" width="579" height="780" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1609069594121" />
+    <state x="486" y="125" width="672" height="678" key="search.everywhere.popup" timestamp="1609069599411">
+      <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768/1366.0.1360.768@0.0.1366.768" timestamp="1605956964425" />
+    <state x="486" y="125" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1609069599411" />
   </component>
 </project>
